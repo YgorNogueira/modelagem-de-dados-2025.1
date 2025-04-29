@@ -22,7 +22,7 @@ A base **“Casos de Dengue, Zika e Chikungunya”** faz parte do conjunto de da
 ## 🔗 Links Úteis
 - **Link da base de dados**: http://dados.recife.pe.gov.br/dataset/casos-de-dengue-zika-e-chikungunya 
 - **Link do dicionário de dados**: http://dados.recife.pe.gov.br/dataset/casos-de-dengue-zika-e-chikungunya/resource/d950fcd0-5157-499f-bb25-c448c793865f
-- **Drive da disciplina**: [inserir link aqui]  
+- **Drive da disciplina**: https://drive.google.com/drive/folders/1COSHHtvXT3RXYLzGWDG22NYcHTRQDHof?usp=drive_link
 
 ---
 
