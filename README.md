@@ -1,4 +1,7 @@
-# Modelagem de Dados – Análise de Casos de Dengue, Zika e Chikungunya
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# Modelagem de Dados – Análise de Casos de Dengue
 
 ## 🎓 Disciplina
 Este projeto foi desenvolvido para a disciplina de Modelagem de Dados, ministrada pela professora **Roberta Gouveia**, no curso de Sistemas de Informação da **UFRPE**.
